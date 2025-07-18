@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This site is a creative and responsive
 ---
 
 ## 🖼️ Preview
-![Website Preview](./Screen_1.png)
+![Website Preview](./Screen_4.png)
 ![Website Preview](./Screen_2.png)
 ![Website Preview](./Screen_3.png)
 
